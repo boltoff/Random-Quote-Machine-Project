@@ -1,0 +1,31 @@
+body {
+    background-color: darkslategray;
+    box-shadow: inset 0px 0px 200px 30px black;
+    color: white;
+}
+header {
+    margin-top: 80px;
+    text-align: center;
+    font-size: 3.5em;
+}
+section {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 10%;
+}
+button {
+    width: 100%;
+}
+#quoteplace {
+    font-size: 1.5em;
+    margin: 30px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+#loading {
+    margin: auto;
+    text-align: center;
+}
+#autor {
+    text-align: right;
+}
